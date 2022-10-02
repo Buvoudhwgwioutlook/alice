@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: xt3ig8uee57K2hfYuDXeTiI+NqNVZc8nKPwr2HF9DrY=
+
+Name: classes.dex
+SHA-256-Digest: SrVdPi4BHxKia/zf4IPeFHS7D2Ks4Mecu35pDwtw/zc=
+
+Name: res/drawable-hdpi-v4/ic_permissionapp.png
+SHA-256-Digest: p2x5M87Q8taUzCamGWMki+mYOMWD3WFg3MypJ8U3UGY=
+
+Name: res/drawable-mdpi-v4/ic_permissionapp.png
+SHA-256-Digest: clToLtvBf2+nQnG0azETs0NaZdBAiLuYF3cICLy9D8I=
+
+Name: res/drawable-xhdpi-v4/ic_permissionapp.png
+SHA-256-Digest: XtPI+MExhr9LA6fWiJpoG5U25SRktsY1wvlqZHQn8d0=
+
+Name: res/drawable-xxhdpi-v4/ic_permissionapp.png
+SHA-256-Digest: uFN3pqZs4qo2sUSCmFKIz1oce9FSBN5qU9u+DHwAbdA=
+
+Name: res/drawable-xxxhdpi-v4/ic_permissionapp.png
+SHA-256-Digest: BIW2Y5Rm5HIF5v3XyEMF8/0PJ/qihNPcBRAvjlnX4QI=
+
+Name: resources.arsc
+SHA-256-Digest: 1XUWvh2GyfRePtNtvm0+EmyfRjwqobHy1szRwKDsLmQ=
+
